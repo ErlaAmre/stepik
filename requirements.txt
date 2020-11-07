@@ -194,3 +194,5 @@ xlwings==0.17.1
 yapf==0.28.0
 zict==1.0.0
 zipp==2.2.0
+gevent==1.4.0
+
